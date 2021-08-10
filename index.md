@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/craigwhiteky/links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/craigwhiteky/links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table style="font-family: Verdana; font-size: 10pt;" border="0">
+<tbody>
+<tr>
+<td align="center">
+<input name="txtGoogle" onkeypress="return checkSubmit(event)" type="text"><br>
+<input name="G" value="Web" onclick="document.formGoogle.q.value=document.form1.txtGoogle.value;document.formGoogle.submit()" type="button">
+<input name="W" value="Wiki" onclick="document.formGoogle.q.value=document.form1.txtGoogle.value;document.formGoogle.submit()" type="button"></td>
+<td>&nbsp;|&nbsp;<br>
+&nbsp;|<br>
+&nbsp;|</td>
+<td width="100%"><a href="https://pg.app.box.com/files" target="_blank"> </a><a href="http://www.craigwhite.net/" target="_blank">CL</a>
+(<a href="https://intellections.wordpress.com/" target="_blank">alt</a>) .&nbsp;<a href="https://gmail.com/" target="_blank">eMail</a>
+. <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">Drive</a> |
+<a href="https://www.amazon.com/Amazon-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&amp;node=2858778011" target="_blank">Amazon Vid</a> (<a href="https://www.amazon.com/gp/yourstore/iyr/ref=pd_ys_iyr_edit_watched?ie=UTF8&amp;collection=watched" target="_blank">History</a>) .&nbsp;<a href="https://www.amazon.com/clouddrive/" target="_blank">Drive</a>&nbsp;|
+<a href="https://watch.sling.com/browse/guide/2f5c3abe53004a3db6b236739c12a955?filter=My%20Channels&amp;state=gridGuide" target="_blank">Sling</a> . <a href="https://www.netflix.com" target="_blank">NF</a>
+. <a href="https://www.peacocktv.com/watch/home" target="_blank">PK</a> . <a href="https://therokuchannel.roku.com/" target="_blank">Roku</a>
+. <a href="https://www.youtube.com/feed/subscriptions" target="_blank">YT</a> . <a href="https://rumble.com/" target="_blank">Rumble</a>
+|
+<a target="_blank" href="http://192.168.200.1/">Router</a>
+| <a target="_blank" href="https://www.office.com/?auth=2&amp;home=1">O365</a>
+. <a href="https://outlook.office365.com/owa/?" target="_blank">Outlook</a> . <a href="https://pgone-my.sharepoint.com/personal/white_rc_4_pg_com/_layouts/15/onedrive.aspx" target="_blank">OneDrive</a> . <a href="https://www.onenote.com/notebooks?auth=2&amp;auth_upn=white.rc.4@pg.com&amp;wdorigin=applauncher" target="_blank">OneNote</a> . <a target="_blank" href="https://teams.microsoft.com/">Teams</a>
+. <a href="https://www.yammer.com/pg.com/#/home" target="_blank">Yammer</a> |&nbsp;<a target="_blank" href="http://speedtest.cincinnatibell.com">SpTstCB</a>
+. <a href="http://speedtest.pg.com/" target="_blank">SpTstPG</a>
+| <a href="https://smile.amazon.com/" target="_blank">Amazon</a>
+. <a href="https://www.kroger.com" target="_blank">Kroger</a>
+| <a href="https://mychart.stelizabeth.com/mychart/" target="_blank">St. E</a> | <a href="https://www.discover.com/" target="_blank">Discover</a>
+. <a href="http://www.myaccountaccess.com" target="_blank">VISA</a>
+. <a href="https://www.americanexpress.com/" target="_blank">AMEX</a>
+.
+<a href="https://www.pnc.com/en/personal-banking.html" target="_blank">PNC</a> . <a href="https://tjx.syf.com/login/" target="_blank">TJX</a>
+. <a href="https://robinhood.com/" target="_blank">Robinhood</a>
+|&nbsp;<a style="text-decoration: line-through;" href="https://www.facebook.com/" target="_blank">FB</a>
+. <a href="https://mewe.com/myworld" target="_blank">MW</a>
+| <a href="http://twitter.com/" target="_blank">Tw</a>
+. <a href="https://www.linkedin.com" target="_blank">LI</a>
+. <a href="https://www.pinterest.com/" target="_blank">PR</a>
+| <a href="mailto:Stephanie%20%3C4236509883@vzwpix.com%3E;%20Douglas%20%3C4237713544@vzwpix.com%3E;%20Christian%20%3C4233104477@vzwpix.com%3E;%20Annika%20%3C8594442491@vzwpix.com">Txt</a>
+.&nbsp;<a href="mailto:Stephanie%20%3C4236509883@mms.att.net%3E;%20Douglas%20%3C4237713544@mms.att.net%3E;%20Christian%20%3C4233104477@mms.att.net%3E;%20Annika%20%3C8594442491@mms.att.net%3E">MMS</a>&nbsp;<span style="text-decoration: underline;"></span></td>
+</tr>
+</tbody>
+</table>
